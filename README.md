@@ -4,6 +4,7 @@
 A (n unfinished) demo application for ASP.NET Webforms. Demonstrates a couple of things:
 
 * Use of SQLite with the ASP.NET stack
+* Use of Dapper lightweight ORM
 * Dependency injection (using Autofac) to wire up ObjectDataSources on the Webforms. 
   The goal is to make the fetching of data on to the Webform as declarative as 
   possible and avoid the "hundreds of lines of code in the Page_Load event handler" 
