@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaia.DrivingSchool.Web", "Kaia.DrivingSchool\Kaia.DrivingSchool.Web.csproj", "{A0510944-DF7E-44A7-A983-5CA410BB49C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaia.DrivingSchool.Data", "Kaia.DrivingSchool.Data\Kaia.DrivingSchool.Data.csproj", "{B0033791-7504-4E89-BF4B-6C1F9A8D2042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaia.DrivingSchool.Tests", "Kaia.DrivingSchool.Tests\Kaia.DrivingSchool.Tests.csproj", "{EBE569A3-A7F3-4CBB-BF26-10F1D3B0362C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaia.DrivingSchool.WebUtils", "Kaia.DrivingSchool.WebUtils\Kaia.DrivingSchool.WebUtils.csproj", "{46C671EF-257F-4A61-83AD-BD34D5417168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaia.DrivingSchool.Common", "Kaia.DrivingSchool.Common\Kaia.DrivingSchool.Common.csproj", "{80328738-BFAF-4502-9C1B-25B54D5A73E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0510944-DF7E-44A7-A983-5CA410BB49C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0510944-DF7E-44A7-A983-5CA410BB49C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0510944-DF7E-44A7-A983-5CA410BB49C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0510944-DF7E-44A7-A983-5CA410BB49C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0033791-7504-4E89-BF4B-6C1F9A8D2042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0033791-7504-4E89-BF4B-6C1F9A8D2042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0033791-7504-4E89-BF4B-6C1F9A8D2042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0033791-7504-4E89-BF4B-6C1F9A8D2042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE569A3-A7F3-4CBB-BF26-10F1D3B0362C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE569A3-A7F3-4CBB-BF26-10F1D3B0362C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE569A3-A7F3-4CBB-BF26-10F1D3B0362C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE569A3-A7F3-4CBB-BF26-10F1D3B0362C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C671EF-257F-4A61-83AD-BD34D5417168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C671EF-257F-4A61-83AD-BD34D5417168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C671EF-257F-4A61-83AD-BD34D5417168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C671EF-257F-4A61-83AD-BD34D5417168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80328738-BFAF-4502-9C1B-25B54D5A73E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80328738-BFAF-4502-9C1B-25B54D5A73E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80328738-BFAF-4502-9C1B-25B54D5A73E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80328738-BFAF-4502-9C1B-25B54D5A73E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

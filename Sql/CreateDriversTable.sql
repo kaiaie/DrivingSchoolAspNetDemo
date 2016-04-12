@@ -1,0 +1,7 @@
+CREATE TABLE Drivers
+(
+	Id INTEGER PRIMARY KEY,
+	LastName TEXT NOT NULL,
+	FirstName TEXT NOT NULL,
+	CONSTRAINT uqDriverName UNIQUE(LastName, FirstName)
+);
