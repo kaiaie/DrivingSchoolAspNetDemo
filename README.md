@@ -20,3 +20,13 @@ some future version of ASP.NET, this is probably of historical interest only.
 
 * Visual Studio 2015
 * SlowCheetah extension
+
+
+# Can I use it?
+
+If you're a developer, share and enjoy.
+
+If you're a driving school, well, it's really more of a technology preview: you 
+won't be running your business off it any time soon! But serious offers to 
+produce a complete system will of course be considered. ;-)
+
